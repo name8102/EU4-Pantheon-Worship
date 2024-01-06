@@ -1,0 +1,41 @@
+﻿l_english:
+ hagia_sophia_subject_tt:0 "§Y[Root.GetName]§!„v—RYeHN§Y)YINYe§!ÿ§YNckYe§!b§YÃW‹V‰f§!§YckYe§!0§YÑynfyrckYe§!b^SŽN§YFz¯e—g§!—RYeÄuÿNHNåb	gwbvQ—RINýVÿ§Y[Root.Owner.Overlord.GetName]§!	ÿ„výVYebwøv¹RáOðN0"
+ msg_enable_itza_temple_decision_tt:0 "ã‰•§Yú^ËzGY4tOßR'Y^y™^§!³Q®‹0"
+ msg_enable_teotihuacan_decision_tt:0 "ã‰•§YÍ‘ú^åeg'Y^y™^§!³Q®‹0"
+ to_province_is_or_accepts_religion_both_orthodox_tt:0 "§Y[Root.GetName]§!„v—RYe=f§YNckYe§!b=f§YÃW‹V‰fckYe§!ÿN=fåb	gw„výVYebøv‡áOðN0"
+ to_when_upgraded_tt:0 "§YGSµuöe§!"
+ kiel_canal_outward_boost:0 "Œ‚YÉbÐ³l"
+ nhs_alexandrian_paper_tt:0 "SV`OŒRb§YúWNxú^¾‹åTz§!ûN¡RöeÿwýN8fÁTS9eØSHN§Y¸u.V§!0"
+ nhs_amphitheatre_of_thysdrus:0 "!•¯e·Vœ¯eWbVÞzŽbHW"
+ nhs_area_can_no_longer_build_shipyard_tt:0 "NQýwY(W§Y[950.GetAreaName]§!HSßWú^.§Y.9‚‚S§!ŒT§Y'Y.9‚‚S§!0"
+ nhs_baalbek_temple_complex:0 "k)ReYâl)R¯e^y™^²"
+ nhs_can_no_longer_build_shipyard_tt:0 "§MbìNSNýw§!§M(W§!§Y[950.GetName]§!ú^.§Y.9‚‚S§!§Mb§!§Y'Y9‚‚S§!0"
+ nhs_colosseum:0 "Wlš—e‹QHW"
+ nhs_cothon:0 "ROèT=n"
+ nhs_diocletian_palace:0 "4bKQÌ‘HQ«R"
+ nhs_hagia_theotoke_v1:0 "1WÍk'YYeX"
+ nhs_hagia_theotoke_v2:0 "1WÍk'YYeX"
+ nhs_hagia_theotoke_v3:0 "1WÍk'YYeX"
+ nhs_pantheon:0 "N^y¿k"
+ nhs_pantheon_syncretic:0 "N^y¿k"
+ nhs_temple_of_marble_emperors_v1:0 "'Ytówø‹‡v^y¿k"
+ nhs_temple_of_marble_emperors_v2:0 "'Ytówø‹‡v^y¿k"
+ nhs_temple_of_marble_emperors_v3:0 "'Ytówø‹‡v^y¿k"
+ panama_canal_outward_boost:0 "æt³u+YÐ³l"
+ suez_canal_outward_boost:0 "ÕlwÐ³l"
+ to_begin_construction_of_elysian_highway_in_cahokia_not_owned_tt:0 "(W§Y[917.GetName]§!VËYú^.§YÃW‹V‰fØšlQï§!ÅV‰˜‰^SŽNbìNNbìN„v^SýVbbìN„vßvËSÊSvQ^SýV0"
+ to_begin_construction_of_elysian_highway_in_cahokia_tt:0 "(W§Y[917.GetName]§!VËYú^.§YÃW‹V‰fØšlQï§!"
+ to_begin_construction_of_elysian_highway_in_elysia_tt:0 "(W§Y[953.GetName]§!VËYú^.§YÃW‹V‰fØšlQï§!"
+ to_begin_construction_of_north_apaleisian_elysian_highway_tt:0 "VËY(W§YS?–^ÒR‰šN§!ú^.ÃW‹V‰fØšlQï"
+ to_begin_construction_of_south_apaleisian_elysian_highway_tt:0 "VËY(W§YWS?–^ÒR‰šN§!ú^.ÃW‹V‰fØšlQï"
+ to_elysian_highways_project:0 "ÃW‹V‰fØšlQïQ¡‹R"
+ to_enable_decision_construct_atlas_elysian_highway_tt:0 "=T(u³Q®‹§Y£icon_hammer£ú^¾‹?–yrÉb¯eÃW‹V‰fØšlQï§!"
+ to_enable_decision_construct_coastal_elysian_highway_tt:0 "=T(u³Q®‹§Y£icon_hammer£ú^¾‹wm¸SÃW‹V‰fØšlQï§!"
+ to_enable_decision_construct_north_elysian_highway_tt:0 "=T(u³Q®‹§Y£icon_hammer£ú^¾‹SÃW‹V‰fØšlQï§!"
+ to_enable_decision_construct_south_elysian_highway_tt:0 "=T(u³Q®‹§Y£icon_hammer£ú^¾‹WSÃW‹V‰fØšlQï§!"
+ to_enable_decision_construct_vinlandic_elysian_highway_tt:0 "=T(u³Q®‹§Y£icon_hammer£ú^¾‹‡epQÃW‹V‰fØšlQï§!"
+ to_enable_decision_construct_west_elysian_highway_tt:0 "=T(u³Q®‹§Y£icon_hammer£ú^¾‹‰ÃW‹V‰fØšlQï§!"
+ to_improve_apaleisian_paths_tier_3_tt:0 "§Y?–^ÒR‰šNhS§!îOckGSµuTÙuˆN‚YNHeœgÿ\n ,g0WÑSUSb,gÿ§G-20.0%§!\n ,g0W8f›RÏ‘ÿ§G+2.00§!\n ËS›Qûy¨R¦^ÿ§G+30.0%§!\n Le›Qûy¨R¦^ÿ§R+15.0%§!\n ,g0W`no.O­dÿ§G+10.0%§!"
+ to_improve_elysian_highways_tier_2_tt:0 "§YÃW‹V‰fØšlQï§!îOckGSµuTÙuˆN‚YNHeœgÿ\n ,g0WÑSUSb,gÿ§G-15.0%§!\n ,g0W8f›RÏ‘ÿ§G+2.00§!\n ËS›Qûy¨R¦^ÿ§G+35.0%§!\n Le›Qûy¨R¦^ÿ§R+30.0%§!\n ,g0W`no.O­dÿ§G+25.0%§!"
+ to_improve_elysian_highways_tier_3_tt:0 "§YÃW‹V‰fØšlQï§!îOckGSµuTÙuˆN‚YNHeœgÿ\n ,g0WÑSUSb,gÿ§G-20.0%§!\n ,g0W8f›RÏ‘ÿ§G+3.00§!\n ËS›Qûy¨R¦^ÿ§G+50.0%§!\n Le›Qûy¨R¦^ÿ§R+40.0%§!\n ,g0W`no.O­dÿ§G+50.0%§!"
+ to_akrotirion:0 "Üw)RKNµ^"

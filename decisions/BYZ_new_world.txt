@@ -1,0 +1,25 @@
+# country_decisions = {
+# 	BYZ_new_world = {
+# 		major = yes
+# 		potential = {
+# 			tag = BYZ
+# 			not = {
+# 				any_owned_province = {
+# 					continent = europe
+# 				}
+# 			}
+# 		}
+# 		allow = {
+# 			stability = 0
+# 		}
+# 		effect = {
+# 			remove_estate_privilege = estate_church_union_of_the_churches
+# 			remove_estate_privilege = estate_nobles_deteriorating_army
+# 			remove_estate_privilege = estate_burghers_reliance_on_republics
+# 			remove_estate_privilege = estate_burghers_exkousseiai_for_latins
+# 			country_event = {
+# 				id = BYZ_escape_europe.1
+# 			}
+# 		}
+# 	}
+# }

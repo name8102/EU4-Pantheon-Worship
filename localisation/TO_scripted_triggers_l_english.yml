@@ -1,0 +1,51 @@
+﻿l_english:
+ QQF:0 "^aSÌ‘šN"
+ QQG:0 "…h¯eaS±ƒW"
+ QQH:0 "GYÌ‘aSNS"
+ QQI:0 "šNætiO"
+ country_or_subject_or_ally_or_ally_subject_holds_tt:0 "^SŽN§Y[Root.GetName]§!0vQ^—g!^SýV0ßvËSbwßvËS„v^SýV0"
+ has_native_government_tt:0 "åb	g§YŸSOOl§!b§Y9ei—ŒRÕk„vŸSOOl§!?eœ^‰|‹W"
+ msg_diplomats_yes:0 "òTÄuú^Y²NOâV"
+ nhs_accepts_one_vinlandic_culture_tt:0 "¥c×SN*N§Yú‹¯e§!‡eSÄu„v‡eS0"
+ nhs_country_or_subject_or_ally_holds_or_uncolonised_tt:0 "^SŽN§Y[Root.GetName]§!0vQ^—g!^SýV0ßvËSbwßvËS„v^SýVÿbw*g«ˆ–kl0"
+ nhs_country_or_subject_or_ally_holds_tt:0 "^SŽN§Y[Root.GetName]§!ÿvQ^SýVbßvËS0"
+ nhs_culturally_native_tt:0 "åb	gN*N§Y°eNLu§!„vSV0W‡eSÿ"
+ nhs_native_priv_ancestral_land:0 "—R0Wb²‹"
+ to_councils_formation_not_active_tt:0 "§Y[Root.GetWW„®‹OName]„vbËz§!‹NöNS*gÀoIm0"
+ to_does_not_own_any_province_on_NA_tt:0 "(W§YÃW‹V‰f'YF–§!N¡l	gûNUOwýN"
+ to_has_elysian_highway_modifier_tt:0 "åb	gwýNîOck§YÃW‹V‰fØšlQï§!"
+ to_hellenic_has_not_studied_in_last_30_years_tt:0 "ÏkMOßu»lwÏk	NASt^MbýwZPN!k§YNèlŽN—RYe§!0"
+ to_hellenic_has_not_studied_yet_tt:0 "ÏkMOßu»lw(WÖN„v	guKNt^êSýwZPN!k§YNèlŽN—RYe§!ÿ"
+ to_nat_has_most_development_in_culture_tt:0 "¡l	gøvT‡eSÿ§Y[Root.Culture.GetName]§!	ÿ„vìrËzb¦TwbXTýV¶Råb	gÔkbìNôfØš„vÑSUS¦^0"
+ to_nat_in_same_confederation_tt:0 "ŒT§Y[Root.GetName]§!(WTN¦Tw"
+ to_native_reform_expansion:0 "bìN3–IQN„v0WØv"
+ to_nhs_nobles_had_event_check_tt:0 "ÑSuÇ0§Ynfm<SšN¹†u§!0‹NöN"
+ trading_with_helluland_tooltip:0 "NkœpQ²Nf"
+ trading_with_markland_tooltip:0 "NlšKQpQ²Nf"
+ trading_with_vinland_tooltip:0 "N‡epQ²Nf"
+ has_heralds_decision_tooltip:0 "îvMR¡l	gûNUOïS	„vMRèT˜RLˆ¨R"
+ has_heralds_tooltip:0 "	gïS(u„vMRèT˜R"
+ nhs_accepts_one_elysian_culture_tt:0 "¥c×SN*N§YÃW‹V‰f§!‡eSÄu„v‡eS"
+ nhs_at_least_33_dev_tt:0 "åb	gNYŽN§Y[Root.GetName]§!ÊSvQ^—g!^SýV§Y33%§!„vI`ÑSUS¦^0"
+ nhs_ei_repaired_tt:0 "®vÒV?–¯eòTÏuŒRbÖN„vO'YÜ*‚"
+ nhs_elysia_under_pu_tt:0 "§YÃW‹V‰šN§!=fbìN„v«ˆTwßuýV"
+ nhs_estate_interactions_starting_cd_tt:0 "ËNŽNbìN„v6–BSÍN(Wú^Ëz-Nÿ(W§Y1450§!t^MRbìNàeÕlÛLˆNèR6–BS’N¨R0"
+ nhs_euro_elysian_diplomatic_channels_tt:0 "®vÒV?–¯eòTÏuŒRbÖN„vO'YÜ*‚"
+ nhs_has_fire_all_cases_tt:0 "åb	g^Jkp„vØyÆR0"
+ nhs_has_rediscovered_europe_tt:0 "®vÒV?–¯eòTÏuŒRbÖN„vO'YÜ*‚"
+ nhs_natives_no_privileges_tooltip:0 "òTÏu6eWW„®‹O„vyrCg"
+ nhs_natives_privileges_tooltip:0 "S*g6eÞVWW„®‹O„vyrCg"
+ nhs_not_been_rebuild_yet_tt:0 "S*g«ˆÐg*N&rTå‹îOck‰Bl„výV¶RÍ‘ú^0"
+ nhs_recently_conquered_improvement_tt:0 "[Root.GetName]gÑ«ˆVg"
+ nhs_supply_lines_province_tt:0 "§Y›O”^¿u§!=fbìN„vîvhKNN"
+ to_has_appalachian_pathways_modifier_tt:0 "åb	gwýNîOck§Y?–^ÒR‰šNhS§!"
+ to_has_overlords_accepted_culture_tt:0 "wýN‡eS=f—RIN„vøv¹R‡eS"
+ to_has_overlords_culture_tt:0 "åb	g—RIN„v‡eS"
+ to_in_a_war_with_native_country_tt:0 "§Y[Root.GetName]§!=fNHWˆ”ùRåb	g§YŸSOOl§!b§Y9ei—ŸSOOl§!„v?eœ^9ei—ÿTöe=f§Y°eNLu§!ŸSOOl‡eS„výV¶R„v§YÛIeb‰N§!†˜üRw0"
+ to_nhs_disabled_during_pre_hellenic_revolt_tt:0 "¡l	gë(W	wkw„v§YÃW‹V‰f—RYeb‰N§!Œp¾–0"
+ to_nhs_is_defending_against_invader_tt:0 "YŽNNHW§Y2–¡Vb‰N§!-NÿLeýVN^SŽN§YWlš§!‡eSÄuNóSåb	gN*N§Y^J§!wýN"
+ to_nhs_is_in_war_with_invasion_cb_tt:0 "YŽNNHW§YÛIeb‰N§!-NÿO(u§YeQµO§!±Rbt1u"
+ to_not_in_a_war_with_native_country_tt:0 "§Y[Root.GetName]§!v^^—NHWˆ”ùRåb	g§YŸSOOl§!b§Y9ei—ŸSOOl§!„v?eœ^9ei—ÿTöe=f°eNLuŸSOOl‡eS„výV¶R„v§YÛIeb‰N§!†˜üRw0"
+ to_province_is_or_accepts_religion_both_orthodox_exarch_tt:0 "§Y[Root.GetName]§!„v—RYe=f§YNckYe§!b=f§YÃW‹V‰fckYe§!ÿN=fåb	gwbvQ—RINýVÿ§Y[Root.Owner.Overlord.GetName]§!	ÿ„výVYebøv‡áOðN"
+ to_sparta_has_less_than_33p_dev_tt:0 "§Y[GetExistingSpartaName]§!åb	gNYŽN§Y[Root.GetName]§!ÊSvQ^—g!^SýV§Y33%§!„vI`ÑSUS¦^0"
+ to_sparta_less_than_50p_army_size_tt:0 "§Y[GetExistingSpartaName]§!åb	gNYŽN§Y[Root.GetName]§!ÊSvQ^—g!^SýV§Y50%§!„vI`uQ›R0…úQNP–„v›Q–N³ueQ¡‹—r0"

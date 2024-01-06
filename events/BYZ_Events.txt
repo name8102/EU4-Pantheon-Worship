@@ -1,0 +1,54 @@
+namespace = BYZ_escape_europe
+#choose_religion
+country_event = {
+	id = BYZ_escape_europe.1
+	title = "BYZ_escape_europe_1_title"
+	desc = "BYZ_escape_europe_1_desc"
+	trigger = {
+		tag = BYZ
+		not = {
+			any_owned_province = {
+				continent = europe
+			}
+		}
+	}
+	fire_only_once = yes
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		remove_estate_privilege = estate_church_union_of_the_churches
+		remove_estate_privilege = estate_nobles_deteriorating_army
+		remove_estate_privilege = estate_burghers_reliance_on_republics
+		remove_estate_privilege = estate_burghers_exkousseiai_for_latins
+	}
+	option = {
+		name = "BYZ_escape_europe_1.a"
+		add_stability = 1
+	}
+	option = {
+		name = "BYZ_escape_europe_1.b"
+		change_religion = pantheon_worship
+		set_ruler_religion = pantheon_worship
+		set_heir_religion = pantheon_worship
+		set_consort_religion = pantheon_worship
+		capital_scope = {
+			change_religion = pantheon_worship
+		}
+	}
+	option = {
+		name = "BYZ_escape_europe_1.c"
+		trigger = {
+			capital_scope = {
+				continent = asia
+			}
+		}
+		change_religion = confucianism
+		set_ruler_religion = confucianism
+		set_heir_religion = confucianism
+		set_consort_religion = confucianism
+		capital_scope = {
+			change_religion = confucianism
+		}
+	}
+}
